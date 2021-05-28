@@ -1,0 +1,297 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: PA_LBL_CREATED_DATE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: PA_LBL_LAST_UPDATED in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+WebView Server has been started on port 63501
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername user
+End appending additional signatures 4924b6c6-b9ef-4d3f-8420-1b583dab7e8a__user
+End getting machine ID on Windows 3d22626989383fb0883d9a743e05796c
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+1 organization(s) fetched
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+WebView Server has been started on port 61786
+Latest plugins responses: [{"id":195446,"status":1,"expiration_date":"May 1st 2021, 3:56 pm","created_at":"2021-04-01T15:56:29.445Z","updated_at":"2021-04-01T15:56:43.883Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":58999,"bundled_plugin_id":null,"product":{"id":137,"plugin_id":"com.katalon.katalon-studio-kobiton;singleton=true","name":"Kobiton Integration","description":"Enable integration between Kobiton and Katalon Studio.","logo":"yro1oaq3bwhdwo2x-KobitonPlugins_140px@2x.png","repository":null,"documentation":null,"reference":null,"license":null,"release_date":null,"qa_url":null,"status":1,"created_at":"2019-10-21T07:52:11.063Z","updated_at":"2019-11-04T10:12:57.382Z","overview":"To use the Kobiton Integration plugin, you need to have **Katalon Studio 7.0.1** as the minimum compatible version.\r\n\r\n### Integrate Katalon Studio with Kobiton\r\n\r\nAfter installing and reloading plugins, go to **Preferences** > **Katalon** > **Kobiton**.\r\n\r\nEnter your username and password to connect with Kobiton.\r\n\r\n<p><center><img src=\"https://i.ibb.co/XkBpkg4/kobiton-integration.png\"></center></p>\r\n\r\n### Enable Kobiton Recorder/Spy\r\n\r\n<p><center><img src=\"https://i.ibb.co/Tbtydj7/kobiton-devices.png\"></center></p>\r\n\r\nFor more details about Mobile testing with Kobiton devices and how to integrate with Kobiton, refer to [this document](https://docs.katalon.com/katalon-studio/docs/integrate_with_kobiton.html).\r\n\r\n","price":null,"stripe_product_id":"prod_G23Djg7esmXIpQ","reject_reason":null,"latest_version_number":null,"product_type_id":1,"marketplace_id":null,"product_versions":[{"id":205,"number":"1.0.0","source":"wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip","status":1,"created_at":"2019-10-21T07:52:11.071Z","updated_at":"2019-10-23T03:45:00.477Z","min_app_version":"7.0.1","max_app_version":null,"change_log":""}],"product_type":{"id":1,"name":"Katalon Studio Plugin","description":"Katalon Studio Plugin","sequence":2,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z","view_type":0},"product_categories":[{"id":6,"name":"Integration","short_name":"","description":null,"order":6,"hide":false,"use_carousel":false,"created_at":"2019-07-05T08:15:24.766Z","updated_at":"2020-08-03T09:32:12.344Z","product_join_category":{"id":172,"created_at":"2019-10-23T03:45:44.605Z","updated_at":"2019-10-23T03:45:44.605Z","product_id":137,"category_id":6}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/yro1oaq3bwhdwo2x-KobitonPlugins_140px@2x.png","categories":"Integration","url":"/product/137"},"license_type":{"id":2,"name":"Trial","active":true,"day":30,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":false,"trial":true,"paid":false,"expired":true,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":205,"number":"1.0.0","source":"wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip","status":1,"created_at":"2019-10-21T07:52:11.071Z","updated_at":"2019-10-23T03:45:00.477Z","min_app_version":"7.0.1","max_app_version":null,"change_log":""}],"latest_compatible_version":{"id":205,"number":"1.0.0","source":"wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip","status":1,"created_at":"2019-10-21T07:52:11.071Z","updated_at":"2019-10-23T03:45:00.477Z","min_app_version":"7.0.1","max_app_version":null,"change_log":""},"current_version":{"id":205,"number":"1.0.0","source":"wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip","status":1,"created_at":"2019-10-21T07:52:11.071Z","updated_at":"2019-10-23T03:45:00.477Z","min_app_version":"7.0.1","max_app_version":null,"change_log":""},"latest_version":{"id":205,"number":"1.0.0","source":"wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip","status":1,"created_at":"2019-10-21T07:52:11.071Z","updated_at":"2019-10-23T03:45:00.477Z","min_app_version":"7.0.1","max_app_version":null,"change_log":""},"expiryDate":"2021-05-01T15:56:29.425Z","created_date":"April 1st 2021, 3:56 pm","download_url":"https://plugins.katalon.com/wnlguq4nsdkqzity-katalon-studio-kobiton-1.0.0.jar.zip?Expires=1622197258&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tL3dubGd1cTRuc2RrcXppdHkta2F0YWxvbi1zdHVkaW8ta29iaXRvbi0xLjAuMC5qYXIuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIyMTk3MjU4fX19XX0_&Signature=PcVIIj8y2c3p8xEj91k0WjhmsHVflpWRCIKX9pvW37-MNl-oiTzRPUB8w-CGBTi2WagUCv7iEIkWDmyOp89X3hKqSYZxh8NYqhozhYb9QweGick0t5yDCq6djxOk19iRt00fNm6lYt6n2Lw9vniAgjTDya~Eu5N4V58MPHmHPvFd5CWO28QW9pAxN8zTFpVx0EZ0uUOmJQHfidzgrfnxiYWVnvBLk7D~K5ldWsUuCcra2UZMnCvGdVhs57qnfi~NrzzWGWOVsxaNAovCZqSCJ51iuE9QlZYI24UUgjCjK2CDJAc9MHV-J-Hek3WaR-guTinvGVztLXlO--UeZHaK-g__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"},{"id":189725,"status":1,"expiration_date":null,"created_at":"2020-12-20T02:37:39.613Z","updated_at":"2020-12-20T02:37:39.613Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":58999,"bundled_plugin_id":null,"product":{"id":34,"plugin_id":null,"name":"Excel Keywords","description":"This plug-in makes writing automation tests using excel files (.xls and .xlsx) much easier by reading, writing, and comparing Excel files.","logo":"9b7f5fllg7ns9864-excel.png","repository":"https://github.com/katalon-studio/katalon-excel-keyword","documentation":"https://plugin-docs.katalon.com/docs/excel-custom-keywords/","reference":null,"license":null,"release_date":null,"qa_url":null,"status":1,"created_at":"2019-03-27T04:17:28.432Z","updated_at":"2019-11-18T09:19:44.640Z","overview":"This plug-in makes writing automation tests using excel files (.xls and .xlsx) much easier by reading, writing, and comparing Excel files. \r\n\r\nSome key features of this plug-in are: \r\n* Create an excel file with the provided file path\r\n* Get an instance of a workbook object from an excel file\r\n* Create one or many excel sheets in a workbook\r\n* Generate a list of the sheet names in a workbook\r\n* Read the value of one or many of the cells within a sheet\r\n* Write value into one or many of the cells in a sheet\r\n* Save a workbook into an excel file\r\n* Compare two excel files, two sheets, two rows, or two cells\r\n* Supported Excel file types:  .xlsx and .xls (from Excel versions 97/2000/XP/2003). It does not work with Excel versions 5.0/95.\r\n\r\nKatalon Studio version supported: v6.0.5 or later\r\nTo make things easier, we have included a sample with test cases using the plug-in. [Download it here.](https://github.com/nhannguyenth/katalon-excel-keyword/tree/master/ExcelPluginSample/) \r\n\r\nFollow the steps below to install and begin using the plug-in. \r\n\r\n**Installing The Plug-in**\r\n1. Create/Open Katalon project (Katalon Studio version v6.0.5 or later)\r\n\r\n2. Select *Project* > *Settings* > *External Libraries*\r\n![](https://drive.google.com/uc?export=view&id=1P2xGe0Ucw3TxWpoXZMZl7PvOHlXmfE_u)\r\n\r\n3. Add *ExcelKeywords.jar*, then click OK. \r\n![](https://drive.google.com/uc?export=view&id=1lbgQ03s3MK9GUjDqxOv4VhQpqX-YYYmz)\r\n\r\n4. On the test case file, *import com.kms.katalon.keyword.excel.ExcelKeywords*. You can now use the plug-in.\r\n\r\n**To import Java Documentation of the Plug-in:**\r\n 1. Hover on *import com.kms.katalon.keyword.excel.ExcelKeywords*, right click, then select *Open Declaration.*\r\n ![](https://drive.google.com/uc?export=view&id=1_Cb2cHo5YgWUAYrP8Y4j0MhhRkP0GVPA)\r\n \r\n 2. Select *Attach Source*  on Class File Editor page.\r\n![](https://drive.google.com/uc?export=view&id=1UVnHaKzcIvcpfV1PqYKdbZvN9zpNd-gh)\r\n\r\n3. Add *ExcelKeywords-sources.jar*  to External location to attach the Javadoc.\r\n![](https://drive.google.com/uc?export=view&id=10-JSw_owHArKioMjCPBColyGIS3tU3V4)\r\n\r\n4. Now, you could see the  JavaDoc of ExcelKeywords Plug-in while you are working with your test cases\r\n![](https://drive.google.com/uc?export=view&id=1ObZMh2edMDOAmLFoxFAcA6Ox0yjMY5ni)","price":null,"stripe_product_id":null,"reject_reason":null,"latest_version_number":null,"product_type_id":2,"marketplace_id":null,"product_versions":[{"id":105,"number":"1.0.1","source":"kqxxm80ulmyivy88-ExcelKeywords.zip","status":1,"created_at":"2019-05-08T08:30:22.625Z","updated_at":"2019-11-18T08:36:11.093Z","min_app_version":"6.0.5","max_app_version":null,"change_log":""},{"id":63,"number":"1.0.0","source":"ii5opvqtbv0rycnt-ExcelKeywords.zip","status":1,"created_at":"2019-03-27T04:17:28.467Z","updated_at":"2019-11-18T08:36:11.096Z","min_app_version":"6.0.5","max_app_version":null,"change_log":""},{"id":215,"number":"1.0.2","source":"08pfcrjzgo6t4nsv-ExcelKeywords.zip","status":1,"created_at":"2019-11-18T08:33:21.297Z","updated_at":"2019-11-18T08:36:11.095Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"- Update ExcelKeywords.groovy\r\n- Fix bugs\r\n- Maintenance release"}],"product_type":{"id":2,"name":"Custom Keywords Plugin","description":"Custom Keywords Plugin","sequence":1,"created_at":"2019-03-14T08:13:50.036Z","updated_at":"2019-03-14T08:13:50.036Z","view_type":0},"product_categories":[{"id":1,"name":"Custom Keywords","short_name":"","description":"Custom Keywords","order":2,"hide":false,"use_carousel":false,"created_at":"2019-06-13T08:47:46.501Z","updated_at":"2020-08-03T09:32:23.765Z","product_join_category":{"id":186,"created_at":"2019-11-18T09:19:44.659Z","updated_at":"2019-11-18T09:19:44.659Z","product_id":34,"category_id":1}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/9b7f5fllg7ns9864-excel.png","categories":"Custom Keywords","url":"/product/34"},"license_type":{"id":1,"name":"Free","active":true,"day":null,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":true,"trial":false,"paid":false,"expired":false,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":105,"number":"1.0.1","source":"kqxxm80ulmyivy88-ExcelKeywords.zip","status":1,"created_at":"2019-05-08T08:30:22.625Z","updated_at":"2019-11-18T08:36:11.093Z","min_app_version":"6.0.5","max_app_version":null,"change_log":""},{"id":63,"number":"1.0.0","source":"ii5opvqtbv0rycnt-ExcelKeywords.zip","status":1,"created_at":"2019-03-27T04:17:28.467Z","updated_at":"2019-11-18T08:36:11.096Z","min_app_version":"6.0.5","max_app_version":null,"change_log":""},{"id":215,"number":"1.0.2","source":"08pfcrjzgo6t4nsv-ExcelKeywords.zip","status":1,"created_at":"2019-11-18T08:33:21.297Z","updated_at":"2019-11-18T08:36:11.095Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"- Update ExcelKeywords.groovy\r\n- Fix bugs\r\n- Maintenance release"}],"latest_compatible_version":{"id":215,"number":"1.0.2","source":"08pfcrjzgo6t4nsv-ExcelKeywords.zip","status":1,"created_at":"2019-11-18T08:33:21.297Z","updated_at":"2019-11-18T08:36:11.095Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"- Update ExcelKeywords.groovy\r\n- Fix bugs\r\n- Maintenance release"},"current_version":{"id":215,"number":"1.0.2","source":"08pfcrjzgo6t4nsv-ExcelKeywords.zip","status":1,"created_at":"2019-11-18T08:33:21.297Z","updated_at":"2019-11-18T08:36:11.095Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"- Update ExcelKeywords.groovy\r\n- Fix bugs\r\n- Maintenance release"},"latest_version":{"id":215,"number":"1.0.2","source":"08pfcrjzgo6t4nsv-ExcelKeywords.zip","status":1,"created_at":"2019-11-18T08:33:21.297Z","updated_at":"2019-11-18T08:36:11.095Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"- Update ExcelKeywords.groovy\r\n- Fix bugs\r\n- Maintenance release"},"created_date":"December 20th 2020, 2:37 am","download_url":"https://plugins.katalon.com/08pfcrjzgo6t4nsv-ExcelKeywords.zip?Expires=1622197258&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tLzA4cGZjcmp6Z282dDRuc3YtRXhjZWxLZXl3b3Jkcy56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MjIxOTcyNTh9fX1dfQ__&Signature=dFm1SCeAhxNfHsbL9p7cb8U~WOykckkMRVQ5ZnEWbrvQwA5lTESujfyvEdAXV4SZiXWjdYVWN~gDrn80pcE7n7uentrr8dQhtjR35ZTMLqDHGdanQ-NK20ulyknZr~YpApE4d7VtF9jXMcS8BVI1kBmGsj42ruzr1Hh-fZmz4TCOrn0trJ0CYqajRuyicks75kZ6rbt5J2FwSvKK2ibrzgkaRE~f5Ayf1ZFk90fHhqJpExWaO92iGsRQfj4H4kwIKNOATBO00LDcYD1Zirgce2WDKeWI3CRBDIECsSt7CwH6aQmLuCwSWv28nOiKwDavR55afqj2K-ZKrZHFh54PQg__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"},{"id":170772,"status":1,"expiration_date":null,"created_at":"2020-02-15T08:46:12.478Z","updated_at":"2020-02-15T08:46:12.478Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":58999,"bundled_plugin_id":null,"product":{"id":180,"plugin_id":"com.katalon.katalon-studio-testng;singleton=true","name":"TestNG/JUnit Keywords","description":"The built-in TestNG/JUnit keywords are supported for executing your TestNG/JUnit/Selenium test scripts in Katalon Studio.","logo":"sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","repository":null,"documentation":"http://docs.katalon.com/katalon-studio/docs/selenium-testng-junit-migration.html","reference":null,"license":"https://www.katalon.com/terms/katalon-store-term/katalon-plugin-license-agreement/","release_date":null,"qa_url":null,"status":1,"created_at":"2020-04-20T05:50:41.043Z","updated_at":"2020-05-15T10:07:25.977Z","overview":"From  7.4.0,  Katalon Studio supports migrating test scripts from Selenium, TestNG, or JUnit projects. You can reuse, maintain, and execute your test cases right in Katalon Studio. \r\n\r\nThis plugin is for facilitating the migration process by enabling the TestNG/JUnit built-in keywords,  including `runTestNGTestClasses`, `runTestNGTestSuites`, and `runJUnitTestCases`  in the **manual** view.\r\n","price":null,"stripe_product_id":null,"reject_reason":null,"latest_version_number":null,"product_type_id":1,"marketplace_id":null,"product_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"product_type":{"id":1,"name":"Katalon Studio Plugin","description":"Katalon Studio Plugin","sequence":2,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z","view_type":0},"product_categories":[{"id":2,"name":"Utilities","short_name":"","description":"Utilities","order":3,"hide":false,"use_carousel":false,"created_at":"2019-06-13T08:48:28.556Z","updated_at":"2020-08-03T09:32:20.864Z","product_join_category":{"id":214,"created_at":"2020-04-21T05:45:04.120Z","updated_at":"2020-04-21T05:45:04.120Z","product_id":180,"category_id":2}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","categories":"Utilities","url":"/product/180"},"license_type":{"id":1,"name":"Free","active":true,"day":null,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":true,"trial":false,"paid":false,"expired":false,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"latest_compatible_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"current_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"latest_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"created_date":"February 15th 2020, 8:46 am","download_url":"https://plugins.katalon.com/pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip?Expires=1622197258&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tL3BhNDYydWZ4cW5uZDRjcXota2F0YWxvbi1zdHVkaW8tdGVzdG5nLWp1bml0LWtleXdvcmRzLTEuMC4wLmphci56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MjIxOTcyNTh9fX1dfQ__&Signature=Ccp~RMg2RLA4W~lKM3AdipK8MuWgGuYXCN-JJB~ti0LaLgaVMCrmMNWAMmCm0bmBfgnKSvcOLXWkxE3zksYfMJA8NnDfnNv7b0uLf5HBmhkEEH4QyCV-a~WzlQKqJm6hI~jXdKv8cujcNt6a3Bb9J8A2ysXK1-Cbq9VD~v9RBUO1zayRWx0pffJe2WoZBrNv-SkLZtNE~gvh1L7-Tz8p7a0QuPAe6e50y070DJyEDKpC39W16ofXWtHoj4yyyDa5qTze8tPBvc6cC4i7Jx~36Sq8Rv2ffsx74yEWk0v7Ruo7Y-hQj2kF3Do3uUGIfek2g9-4g4n~h9tVIkr00mmZ5w__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"}]
+Katalon version: 7.9.1
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=7.9.1&appType=KSE&licenseType=FREE
+Plugin info: {
+  "expired": true,
+  "productId": 137,
+  "name": "Kobiton Integration",
+  "id": 195446
+}
+Plugin info: {
+  "expired": false,
+  "productId": 34,
+  "name": "Excel Keywords",
+  "id": 189725
+}
+Plugin info: {
+  "expired": false,
+  "productId": 180,
+  "name": "TestNG/JUnit Keywords",
+  "id": 170772
+}
+Expired plugin: 195446.
+Plugin name: Excel Keywords. Is online: true. Plugin location: F:\Katalon_Studio_Windows_64-7.9.1\configuration\plugin\install\189725\1.0.2\ExcelKeywords.jar.
+Plugin name: TestNG/JUnit Keywords. Is online: true. Plugin location: F:\Katalon_Studio_Windows_64-7.9.1\configuration\plugin\install\170772\1.0.0\katalon-studio-testng-junit-keywords-1.0.0.jar.
+Exception in thread "Timer-2" org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4723)
+	at org.eclipse.swt.SWT.error(SWT.java:4638)
+	at org.eclipse.swt.SWT.error(SWT.java:4609)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:432)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:352)
+	at org.eclipse.swt.browser.Browser.checkWidget(Browser.java:216)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:526)
+	at com.kms.katalon.composer.components.util.ComponentUtil.filterInternalUrls(ComponentUtil.java:269)
+	at com.kms.katalon.composer.parts.WelcomePart2.checkAndShowCreativeStartPage(WelcomePart2.java:243)
+	at com.kms.katalon.composer.parts.WelcomePart2.lambda$2(WelcomePart2.java:217)
+	at com.kms.katalon.core.util.TimeUtil$2.run(TimeUtil.java:30)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri May 28 14:29:52 ICT 2021
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:235)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:127)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:56)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri May 28 14:29:53 ICT 2021
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:235)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:127)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:56)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@76618f69[I want to write a step with (.*)]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3190aabc[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44e4dba0[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44e4dba0[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44e4dba0[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44e4dba0[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@44e4dba0[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@285cc6f3[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4c89f60b[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4c89f60b[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4c89f60b[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4c89f60b[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@4c89f60b[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@1f7d3147[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@1f7d3147[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3d6c8819[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3d6c8819[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@61df305f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@61df305f[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ea3a5d6[Pa]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4ea3a5d6[Pa]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75670b61[Page_Gay]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75670b61[Page_Gay]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7041c405[Page_Giay/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7041c405[Page_Giay/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75bd2a11[Page_Giay/icon_]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@75bd2a11[Page_Giay/icon_]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4da705e6[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4da705e6[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@36866ed0[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@36866ed0[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@36866ed0[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@36866ed0[Page_Giay/icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73bb9e05[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@73c99d25[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7797908f[Page_Giay/a_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7797908f[Page_Giay/a_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@c73734c[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@c73734c[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@9e74a31[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@9e74a31[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@9e74a31[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@705d6ff[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@705d6ff[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4f36c639[Page]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@4f36c639[Page]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63109da[Page_]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@29221268[Page_L]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@460ff880[Page_Login]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@460ff880[Page_Login]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@51209bab[Page_Login/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@51209bab[Page_Login/]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49aec25d[Page_Login/inputEmail]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49aec25d[Page_Login/inputEmail]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1002e1b5[Page_Login/input_Email]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1002e1b5[Page_Login/input_Email]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@20b26faf[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@20b26faf[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45883cb6[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45883cb6[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45883cb6[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45883cb6[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63db89cb[Page_Login/input__username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@63db89cb[Page_Login/input__username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37da1460[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@37da1460[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49a66635[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@49a66635[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7a705cc4[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7a705cc4[Page_Login/input_MatKhau_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@2eb5de2a[object: org.codehaus.groovy.ast.expr.ClassExpression@5a10f49d[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@533c74ae[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@24b1a82[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@27d08dac[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@1c6f3b6e[org.codehaus.groovy.ast.expr.ConstantExpression@3facb6c5[Page_Login/input_Email_username]]], org.codehaus.groovy.ast.expr.ConstantExpression@656924b8[5]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@67e85e68[I input email 'hoangmen200799@gmail.com']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@117824e6[I input email '()']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@117824e6[I input email '()']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d0d51d5[I input email '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d0d51d5[I input email '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1d0d51d5[I input email '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b2d440[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b2d440[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@34bdd0de[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@34bdd0de[Page_Login/input_Email_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@be2d360[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@be2d360[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6bf45a29[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6bf45a29[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6e1d27f5[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6e1d27f5[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6e1d27f5[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6e1d27f5[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d0bf714[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5d0bf714[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5026046d[Page_Login/btn]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5026046d[Page_Login/btn]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3bba9244[Page_Login/btn_Dang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3bba9244[Page_Login/btn_Dang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5a2ab6ae[Page_Login/btn_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5a2ab6ae[Page_Login/btn_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77f05817[Page_Login/btn_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@77f05817[Page_Login/btn_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2288690c[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2288690c[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@19882a81[I verify the (.*) in step]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6ce60d1f[I will navigate to Home page]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6ce60d1f[I will navigate to Home page]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7810cf61[Page_Login/btn_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@d79a39d[Page_Login/button_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@1f9bb774[]{ org.codehaus.groovy.ast.stmt.BlockStatement@5a301153[] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@1f9bb774[]{ org.codehaus.groovy.ast.stmt.BlockStatement@5a301153[] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@1f9bb774[]{ org.codehaus.groovy.ast.stmt.BlockStatement@5a301153[] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@1f9bb774[]{ org.codehaus.groovy.ast.stmt.BlockStatement@5a301153[] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@58326d44[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3e5f9c14[Page_Giay/Icon_XemGioHang]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@7ce67333[object: org.codehaus.groovy.ast.expr.ClassExpression@5eb8ef3f[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@5548a507[waitForElement]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@30e6892e[]{ org.codehaus.groovy.ast.stmt.BlockStatement@76e79355[org.codehaus.groovy.ast.stmt.ExpressionStatement@516c2f2d[expression:org.codehaus.groovy.ast.expr.PropertyExpression@7ce67333[object: org.codehaus.groovy.ast.expr.ClassExpression@5eb8ef3f[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@5548a507[waitForElement]]]] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@7ce67333[object: org.codehaus.groovy.ast.expr.ClassExpression@5eb8ef3f[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@5548a507[waitForElement]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@272ee273[]{ org.codehaus.groovy.ast.stmt.BlockStatement@47db48e2[org.codehaus.groovy.ast.stmt.ExpressionStatement@467999b7[expression:org.codehaus.groovy.ast.expr.MethodCallExpression@5b65da32[object: org.codehaus.groovy.ast.expr.ClassExpression@b888657[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] method: org.codehaus.groovy.ast.expr.ConstantExpression@1689439c[click] arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@1c37c4db[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@69762925[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@2683a062[org.codehaus.groovy.ast.expr.ConstantExpression@7aca928d[Page_Giay/Icon_XemGioHang]]]]]]] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@765aa481[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@49501f71[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@30a59345[]{ org.codehaus.groovy.ast.stmt.BlockStatement@11fe8de3[org.codehaus.groovy.ast.stmt.ExpressionStatement@460ee089[expression:org.codehaus.groovy.ast.expr.MethodCallExpression@615cb61c[object: org.codehaus.groovy.ast.expr.ClassExpression@7d7f3ec9[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] method: org.codehaus.groovy.ast.expr.ConstantExpression@180b3510[verifyElementPresent] arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@29b08430[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@2dd83b4c[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@29d5d148[org.codehaus.groovy.ast.expr.ConstantExpression@68b7c2d7[Page_Giay/Icon_XemGioHang]]], org.codehaus.groovy.ast.expr.ConstantExpression@458b4af5[3]]]]] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ClosureExpression@6d5f4fdd[]{ org.codehaus.groovy.ast.stmt.BlockStatement@5775da6f[org.codehaus.groovy.ast.stmt.ExpressionStatement@4480ca4d[expression:org.codehaus.groovy.ast.expr.MethodCallExpression@f470dc8[object: org.codehaus.groovy.ast.expr.ClassExpression@18719a5a[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] method: org.codehaus.groovy.ast.expr.ConstantExpression@61ae8d99[verifyElementPresent] arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@233ee143[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@14a091a1[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@177a25[org.codehaus.groovy.ast.expr.ConstantExpression@1540fdfb[Page_Giay/Icon_XemGioHang]]], org.codehaus.groovy.ast.expr.ConstantExpression@412022e9[3]]]]] }
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3684d6f6[Page_Login/button_DangNhap]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@472cba46[Page_Login/input_MatKhau_pass]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7a06c37c[Page_Login/button_DangNhap]
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

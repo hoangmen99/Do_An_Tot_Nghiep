@@ -1,0 +1,61 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: PA_LBL_CREATED_DATE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: PA_LBL_LAST_UPDATED in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+WebView Server has been started on port 52700
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername menht
+End appending additional signatures 874d8613-0bef-467c-8b83-bf17cbc4a564__menht
+End getting machine ID on Windows 7885ec879090084f24c38ce456917668
+End checking and mark activated for GUI mode
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+WebView Server has been started on port 52714
+Latest plugins responses: [{"id":168348,"status":1,"expiration_date":null,"created_at":"2020-02-15T08:46:12.478Z","updated_at":"2020-02-15T08:46:12.478Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":65180,"bundled_plugin_id":null,"product":{"id":180,"plugin_id":"com.katalon.katalon-studio-testng;singleton=true","name":"TestNG/JUnit Keywords","description":"The built-in TestNG/JUnit keywords are supported for executing your TestNG/JUnit/Selenium test scripts in Katalon Studio.","logo":"sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","repository":null,"documentation":"http://docs.katalon.com/katalon-studio/docs/selenium-testng-junit-migration.html","reference":null,"license":"https://www.katalon.com/terms/katalon-store-term/katalon-plugin-license-agreement/","release_date":null,"qa_url":null,"status":1,"created_at":"2020-04-20T05:50:41.043Z","updated_at":"2020-05-15T10:07:25.977Z","overview":"From  7.4.0,  Katalon Studio supports migrating test scripts from Selenium, TestNG, or JUnit projects. You can reuse, maintain, and execute your test cases right in Katalon Studio. \r\n\r\nThis plugin is for facilitating the migration process by enabling the TestNG/JUnit built-in keywords,  including `runTestNGTestClasses`, `runTestNGTestSuites`, and `runJUnitTestCases`  in the **manual** view.\r\n","price":null,"stripe_product_id":null,"reject_reason":null,"latest_version_number":null,"product_type_id":1,"marketplace_id":null,"product_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"product_type":{"id":1,"name":"Katalon Studio Plugin","description":"Katalon Studio Plugin","sequence":2,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z","view_type":0},"product_categories":[{"id":2,"name":"Utilities","short_name":"","description":"Utilities","order":3,"hide":false,"use_carousel":false,"created_at":"2019-06-13T08:48:28.556Z","updated_at":"2020-08-03T09:32:20.864Z","product_join_category":{"id":214,"created_at":"2020-04-21T05:45:04.120Z","updated_at":"2020-04-21T05:45:04.120Z","product_id":180,"category_id":2}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","categories":"Utilities","url":"/product/180"},"license_type":{"id":1,"name":"Free","active":true,"day":null,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":true,"trial":false,"paid":false,"expired":false,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"latest_compatible_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"current_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"latest_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"created_date":"February 15th 2020, 8:46 am","download_url":"https://plugins.katalon.com/pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip?Expires=1619463859&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tL3BhNDYydWZ4cW5uZDRjcXota2F0YWxvbi1zdHVkaW8tdGVzdG5nLWp1bml0LWtleXdvcmRzLTEuMC4wLmphci56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTk0NjM4NTl9fX1dfQ__&Signature=qClFrQ-7O7KSEiQt9wTQdNbQufpjHv9yKhpo7TYk57tMK11P4wu~sL2xeqDd8TbwYVO~klwGkWlsRc2gg8khL3d8u4oDHZn6HVM4XJla7g9oEGNPCiXvpuYiHsBzY0mpb~hLuA967wpLuoPEP10746P0DlBIX31ONVanq1mN8bXcg1cK21DWzVL-Iy6EFrg6hHTdjD~VyA1skxvyTwB-6ozpKpfqJm48TGqkefILl2x-z5FHlYHurxX1TA3rQXLXF4NzJ0LYw8f~BUOjmAzvNrp7vhfFxpUvFMb8Tn-N7wC9he1~j7B6JVO5B5StQQyLtAWAYlv-4wk6QtXJ56DB5g__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"}]
+Katalon version: 7.9.1
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=7.9.1&appType=KSE&licenseType=TRIAL
+Plugin info: {
+  "expired": false,
+  "productId": 180,
+  "name": "TestNG/JUnit Keywords",
+  "id": 168348
+}
+Plugin name: TestNG/JUnit Keywords. Is online: true. Plugin location: D:\Katalon_Studio_Windows_64-7.9.1\configuration\plugin\install\168348\1.0.0\katalon-studio-testng-junit-keywords-1.0.0.jar.
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Apr 26, 2021 9:14:49 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 26, 2021 9:15:11 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 26, 2021 9:15:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+All launchers terminated
+WebView Server has been started on port 55224
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

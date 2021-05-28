@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dangxuat</name>
+   <tag></tag>
+   <elementGuidId>c0fd3adb-cc59-4274-90c5-ed6d1fe1b9af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;vng_header&quot;]/div/div/ul[2]/li[3]/div/div[2]/div/ul/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;vng_header&quot;]/div/div/ul[2]/li[3]/div/div[2]/div/ul/li[5]/a/span</value>
+   </webElementProperties>
+</WebElementEntity>

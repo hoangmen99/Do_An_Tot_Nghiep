@@ -1,0 +1,32 @@
+{
+  "platform": "WIN32_X86_64",
+  "version": "8.0.0",
+  "files": [
+    {
+      "location": "resources.tar.gz",
+      "extractLocation": "configuration/resources",
+      "hash": "5E7CE8486E3BF658B4C83CAB6447C4F9",
+      "size": 126490147,
+      "status": "NEW",
+      "excludes": [
+        "configuration/resources/update"
+      ],
+      "executableFiles": []
+    },
+    {
+      "location": "contents.tar.gz",
+      "extractLocation": "",
+      "hash": "5404B9083224D439DE65E955CF50F386",
+      "size": 384863033,
+      "status": "NEW",
+      "excludes": [
+        "configuration/resources",
+        "jre",
+        "config/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi",
+        "config/recent_project",
+        "config/.metadata/.plugins/org.eclipse.core.runtime"
+      ],
+      "executableFiles": []
+    }
+  ]
+}

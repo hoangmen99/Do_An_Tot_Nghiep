@@ -1,0 +1,170 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: PA_LBL_CREATED_DATE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: PA_LBL_LAST_UPDATED in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+WebView Server has been started on port 50509
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername menht
+End appending additional signatures 874d8613-0bef-467c-8b83-bf17cbc4a564__menht
+End getting machine ID on Windows 7885ec879090084f24c38ce456917668
+Activating credentials...
+Katalon TestOps: Unexpected response, URL: https://analytics.katalon.com/oauth/token, Status: 400, Response: {"error":"invalid_grant","error_description":"Invalid credentials."}
+
+Wed Apr 14 14:55:16 ICT 2021
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"invalid_grant","error_description":"Invalid credentials."}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:665)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:41)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:492)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:380)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:360)
+	at com.kms.katalon.activation.dialog.ActivationDialogV2$9.lambda$2(ActivationDialogV2.java:218)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.kms.katalon.util.ComposerActivationInfoCollector.checkActivationDialog(ComposerActivationInfoCollector.java:129)
+	at com.kms.katalon.util.ComposerActivationInfoCollector.checkActivation(ComposerActivationInfoCollector.java:102)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.checkActivation(ApplicationStaupHandler.java:41)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.checkActivation(ApplicationStaupHandler.java:32)
+	at com.kms.katalon.core.application.LifeCycleManager$2.handleEvent(LifeCycleManager.java:224)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at com.kms.katalon.core.application.WorkbenchApplicationStarter.start(WorkbenchApplicationStarter.java:23)
+	at com.kms.katalon.application.Application.runGUI(Application.java:191)
+	at com.kms.katalon.application.Application.start(Application.java:102)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+
+
+Wed Apr 14 14:55:16 ICT 2021
+Activation collection is failed
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: {"error":"invalid_grant","error_description":"Invalid credentials."}
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:665)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:41)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:492)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:380)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:360)
+	at com.kms.katalon.activation.dialog.ActivationDialogV2$9.lambda$2(ActivationDialogV2.java:218)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.kms.katalon.util.ComposerActivationInfoCollector.checkActivationDialog(ComposerActivationInfoCollector.java:129)
+	at com.kms.katalon.util.ComposerActivationInfoCollector.checkActivation(ComposerActivationInfoCollector.java:102)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.checkActivation(ApplicationStaupHandler.java:41)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.checkActivation(ApplicationStaupHandler.java:32)
+	at com.kms.katalon.core.application.LifeCycleManager$2.handleEvent(LifeCycleManager.java:224)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at com.kms.katalon.core.application.WorkbenchApplicationStarter.start(WorkbenchApplicationStarter.java:23)
+	at com.kms.katalon.application.Application.runGUI(Application.java:191)
+	at com.kms.katalon.application.Application.start(Application.java:102)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+
+Failed to active user credentials. Error message: Invalid credentials.
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+1 organization(s) fetched
+Start check license task
+All launchers terminated
+WebView Server has been started on port 50593
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+Latest plugins responses: [{"id":168348,"status":1,"expiration_date":null,"created_at":"2020-02-15T08:46:12.478Z","updated_at":"2020-02-15T08:46:12.478Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":65180,"bundled_plugin_id":null,"product":{"id":180,"plugin_id":"com.katalon.katalon-studio-testng;singleton=true","name":"TestNG/JUnit Keywords","description":"The built-in TestNG/JUnit keywords are supported for executing your TestNG/JUnit/Selenium test scripts in Katalon Studio.","logo":"sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","repository":null,"documentation":"http://docs.katalon.com/katalon-studio/docs/selenium-testng-junit-migration.html","reference":null,"license":"https://www.katalon.com/terms/katalon-store-term/katalon-plugin-license-agreement/","release_date":null,"qa_url":null,"status":1,"created_at":"2020-04-20T05:50:41.043Z","updated_at":"2020-05-15T10:07:25.977Z","overview":"From  7.4.0,  Katalon Studio supports migrating test scripts from Selenium, TestNG, or JUnit projects. You can reuse, maintain, and execute your test cases right in Katalon Studio. \r\n\r\nThis plugin is for facilitating the migration process by enabling the TestNG/JUnit built-in keywords,  including `runTestNGTestClasses`, `runTestNGTestSuites`, and `runJUnitTestCases`  in the **manual** view.\r\n","price":null,"stripe_product_id":null,"reject_reason":null,"latest_version_number":null,"product_type_id":1,"marketplace_id":null,"product_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"product_type":{"id":1,"name":"Katalon Studio Plugin","description":"Katalon Studio Plugin","sequence":2,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z","view_type":0},"product_categories":[{"id":2,"name":"Utilities","short_name":"","description":"Utilities","order":3,"hide":false,"use_carousel":false,"created_at":"2019-06-13T08:48:28.556Z","updated_at":"2020-08-03T09:32:20.864Z","product_join_category":{"id":214,"created_at":"2020-04-21T05:45:04.120Z","updated_at":"2020-04-21T05:45:04.120Z","product_id":180,"category_id":2}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/sfyj32l3e72rv1gu-TestNg_JUnit_selenium_Keywords_140px.png","categories":"Utilities","url":"/product/180"},"license_type":{"id":1,"name":"Free","active":true,"day":null,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":true,"trial":false,"paid":false,"expired":false,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""}],"latest_compatible_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"current_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"latest_version":{"id":255,"number":"1.0.0","source":"pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip","status":1,"created_at":"2020-04-20T05:50:41.051Z","updated_at":"2020-04-20T05:50:51.731Z","min_app_version":"7.4.0","max_app_version":null,"change_log":""},"created_date":"February 15th 2020, 8:46 am","download_url":"https://plugins.katalon.com/pa462ufxqnnd4cqz-katalon-studio-testng-junit-keywords-1.0.0.jar.zip?Expires=1618405025&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tL3BhNDYydWZ4cW5uZDRjcXota2F0YWxvbi1zdHVkaW8tdGVzdG5nLWp1bml0LWtleXdvcmRzLTEuMC4wLmphci56aXAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTg0MDUwMjV9fX1dfQ__&Signature=DSKRCSA0dVjX1catFNTr5ZqZfYlUPeQ31WV5vzKbMkka6c2peCwLJWGf~XGKv~0FzDqP0H6XKHBEfP2-C3uDiGRDIsU5D1EG1fxTlslNzns~U-qp~Il8OX-VHCgZmtDAVHPWGZvUEbNaP6ynql~MCmWF9U2MDqOUln3beIzc94bdrSfwFUkfQZc9FczNsx7cTDbFZO3N5M2VU0JVR47qvCGkI5uqJU9DUg~CcL9OeICL3MPAj2l5AcS4ZiphP0BtaFh4fmhEO0dLfkDQJot27TT5lK9LzxHNpAYtveDqK1u4SKgrPvtbUXxvORsai6XcAVFmy4IJEWTKNQxDw-XonA__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"}]
+Katalon version: 7.9.1
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=7.9.1&appType=KSE&licenseType=TRIAL
+Plugin info: {
+  "expired": false,
+  "productId": 180,
+  "name": "TestNG/JUnit Keywords",
+  "id": 168348
+}
+Plugin name: TestNG/JUnit Keywords. Is online: true. Plugin location: D:\Katalon_Studio_Windows_64-7.9.1\configuration\plugin\install\168348\1.0.0\katalon-studio-testng-junit-keywords-1.0.0.jar.
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Apr 14, 2021 2:57:26 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Apr 14, 2021 2:57:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task
