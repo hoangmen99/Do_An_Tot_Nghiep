@@ -3288,3 +3288,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-05-28 15:58:46.544
 !MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-05-28 16:11:47.131
+!MESSAGE The workspace will exit with unsaved changes in this session.

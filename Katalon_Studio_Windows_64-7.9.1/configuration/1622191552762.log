@@ -78,3 +78,10 @@ Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: c
 Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
 Warning: NLS unused message: HAND_ERROR_MSG_UNABLE_TO_DEL_TEST_Listener in: com.kms.katalon.composer.testlistener.constant.composerTestListenerMessageConstants
 Warning: NLS missing message: HAND_ERROR_MSG_UNABLE_TO_DEL_TEST_LISTENER in: com.kms.katalon.composer.testlistener.constant.composerTestListenerMessageConstants
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task
