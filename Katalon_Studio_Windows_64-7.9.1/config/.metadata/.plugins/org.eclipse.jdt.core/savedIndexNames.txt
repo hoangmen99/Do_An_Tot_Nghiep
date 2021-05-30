@@ -26,7 +26,6 @@ INDEX VERSION 1.131+F:\Do_An_Tot_Nghiep\Katalon_Studio_Windows_64-7.9.1\config\.
 2320011450.index
 855594861.index
 4134365094.index
-1066072588.index
 1911983666.index
 531464596.index
 2565919348.index
