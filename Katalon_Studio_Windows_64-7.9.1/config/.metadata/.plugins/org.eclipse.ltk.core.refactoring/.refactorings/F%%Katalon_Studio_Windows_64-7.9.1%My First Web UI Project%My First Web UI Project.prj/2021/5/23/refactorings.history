@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;loginWithClientUesr&apos; to &apos;keyword&apos;&#x0D;&#x0A;- Original project: &apos;F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj&apos;&#x0D;&#x0A;- Original element: &apos;loginWithClientUesr&apos;&#x0D;&#x0A;- Renamed element: &apos;keyword&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;loginWithClientUesr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/Keywords&lt;{loginWithClientUesr.groovy[loginWithClientUesr" matchStrategy="1" name="keyword" qualified="false" references="true" similarDeclarations="false" stamp="1622467788609" textual="false" version="1.0"/>
+</session>

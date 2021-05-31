@@ -35499,3 +35499,288 @@ Start writing execution.uuid file to folder: F:\Katalon_Studio_Windows_64-7.9.1\
 Start generating JUnit report folder at: F:\Katalon_Studio_Windows_64-7.9.1\My First Web UI Project\Reports\20210530_225619\Test Suite_login\20210530_225620...
 JUnit report were generated at folder: F:\Katalon_Studio_Windows_64-7.9.1\My First Web UI Project\Reports\20210530_225619\Test Suite_login\20210530_225620
 Katalon TestOps: Start uploading report to Katalon TestOps server: https://analytics.katalon.com
+
+Mon May 31 10:27:47 ICT 2021
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+
+Mon May 31 10:27:47 ICT 2021
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+
+Mon May 31 10:27:51 ICT 2021
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+
+Mon May 31 10:27:51 ICT 2021
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+
+Mon May 31 10:27:54 ICT 2021
+Error when uploading log to Katalon TestOps Server
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+
+Mon May 31 10:27:54 ICT 2021
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: java.net.UnknownHostException: analytics.katalon.com
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:152)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.getKAToken(AnalyticsReportService.java:106)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportService.updateExecutionProccess(AnalyticsReportService.java:222)
+	at com.kms.katalon.integration.analytics.report.AnalyticsReportIntegration.notifyProccess(AnalyticsReportIntegration.java:164)
+	at com.kms.katalon.execution.launcher.BasicLauncher.notifyProccess(BasicLauncher.java:53)
+	at com.kms.katalon.execution.launcher.LoggableLauncher.addLogRecords(LoggableLauncher.java:99)
+	at com.kms.katalon.execution.logging.SocketWatcher.run(SocketWatcher.java:58)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: analytics.katalon.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:646)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:675)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:150)
+	... 7 more
+
+
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Running
+Start writing execution.uuid file to folder: F:\Katalon_Studio_Windows_64-7.9.1\My First Web UI Project\Reports\20210531_102853\Test Suite_Thong_Tin_Ca_Nhan\20210531_102853
+Start generating JUnit report folder at: F:\Katalon_Studio_Windows_64-7.9.1\My First Web UI Project\Reports\20210531_102853\Test Suite_Thong_Tin_Ca_Nhan\20210531_102853...
+JUnit report were generated at folder: F:\Katalon_Studio_Windows_64-7.9.1\My First Web UI Project\Reports\20210531_102853\Test Suite_Thong_Tin_Ca_Nhan\20210531_102853
+Katalon TestOps: Start uploading report to Katalon TestOps server: https://analytics.katalon.com
+TypeInferencingVisitorWithRequestor.findMethodNode: no match found for CustomKeywords.com.kms.katalon.keyword.excel.ExcelKeywords.createExcelSheets(QWorkbook;, Qjava.util.List<QString;>;)
+
+Mon May 31 20:29:48 ICT 2021
+java.lang.NullPointerException
+	at com.kms.katalon.util.jdt.JdtUtil.findMethod(JdtUtil.java:45)
+	at com.kms.katalon.custom.parser.CustomKeywordParser.findJavadoc(CustomKeywordParser.java:307)
+	at com.kms.katalon.custom.parser.CustomKeywordParser.collectMethodJavadocs(CustomKeywordParser.java:300)
+	at com.kms.katalon.custom.parser.CustomKeywordParser.parseCustomKeywordFile(CustomKeywordParser.java:285)
+	at com.kms.katalon.controller.KeywordController.parseCustomKeywordFile(KeywordController.java:213)
+	at com.kms.katalon.composer.keyword.handlers.RenameKeywordHandler.execute(RenameKeywordHandler.java:94)
+	at com.kms.katalon.composer.keyword.handlers.RenameKeywordHandler.access$0(RenameKeywordHandler.java:61)
+	at com.kms.katalon.composer.keyword.handlers.RenameKeywordHandler$1.handleEvent(RenameKeywordHandler.java:55)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at com.kms.katalon.core.application.WorkbenchApplicationStarter.start(WorkbenchApplicationStarter.java:23)
+	at com.kms.katalon.application.Application.runGUI(Application.java:191)
+	at com.kms.katalon.application.Application.start(Application.java:102)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@32746bbe[Page_TaiKhoan/popup_error]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@32746bbe[Page_TaiKhoan/popup_error]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@32746bbe[Page_TaiKhoan/popup_error]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5becef36[Kiểm tra text có hiển thị trên màn hình không
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5becef36[Kiểm tra text có hiển thị trên màn hình không
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5becef36[Kiểm tra text có hiển thị trên màn hình không
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1c99aa93[Page_TaiKhoan/input_MaSoThue]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1c99aa93[Page_TaiKhoan/input_MaSoThue]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1c99aa93[Page_TaiKhoan/input_MaSoThue]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6b3705c4[Page_TaiKhoan/input_DiaChi]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ArgumentListExpression@2f5b17ae[org.codehaus.groovy.ast.expr.StaticMethodCallExpression@5b32a3d7[com.kms.katalon.core.testobject.ObjectRepository#findTestObject arguments: org.codehaus.groovy.ast.expr.ArgumentListExpression@30a7d449[org.codehaus.groovy.ast.expr.ConstantExpression@636deebc[Page_TaiKhoan/input_Ho]]], org.codehaus.groovy.ast.expr.ConstantExpression@147c7318[value], org.codehaus.groovy.ast.expr.VariableExpression@5a9e465b[variable: Ho], org.codehaus.groovy.ast.expr.ConstantExpression@5495c4dd[1]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3c234d49[Kiểm tra text có hiển thị trên màn hình không
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3c234d49[Kiểm tra text có hiển thị trên màn hình không
+]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2456d301[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2456d301[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2456d301[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2456d301[I am on 'Login' site]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45822f9[I input pass '(.*)']
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6980626a[I click 'Login']

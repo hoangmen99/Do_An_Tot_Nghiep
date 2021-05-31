@@ -8277,3 +8277,447 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.ui 2 2 2021-05-30 22:47:05.323
 !MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:47:32.808
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] keyword.groovy [in <default> [in Keywords [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.chrome.ChromeDriver
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords#2
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  class keyword
+    java.lang.Object Login(String, String)
+    java.lang.Object refreshBrowser()
+    java.lang.Object clickElement(TestObject)
+    List<WebElement> getHtmlTableRows(TestObject, String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3181)
+	at java.util.ArrayList.grow(ArrayList.java:265)
+	at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:239)
+	at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:231)
+	at java.util.ArrayList.addAll(ArrayList.java:583)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.addTestObjectDropListener(OpenKeywordHandler.java:134)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.formatEditor(OpenKeywordHandler.java:115)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.excute(OpenKeywordHandler.java:85)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.access$0(OpenKeywordHandler.java:70)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler$1.handleEvent(OpenKeywordHandler.java:59)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$$Lambda$117/1722351469.run(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4735)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at com.kms.katalon.composer.explorer.parts.ExplorerPart$11.doubleClick(ExplorerPart.java:878)
+	at org.eclipse.jface.viewers.StructuredViewer$1.run(StructuredViewer.java:782)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil$$Lambda$14/1973995123.run(Unknown Source)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireDoubleClick(StructuredViewer.java:779)
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:47:38.136
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] keyword.groovy [in <default> [in Keywords [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.chrome.ChromeDriver
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords#2
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  class keyword
+    java.lang.Object Login(String, String)
+    java.lang.Object refreshBrowser()
+    java.lang.Object clickElement(TestObject)
+    List<WebElement> getHtmlTableRows(TestObject, String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3181)
+	at java.util.ArrayList.grow(ArrayList.java:265)
+	at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:239)
+	at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:231)
+	at java.util.ArrayList.addAll(ArrayList.java:583)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.addTestObjectDropListener(OpenKeywordHandler.java:134)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.formatEditor(OpenKeywordHandler.java:115)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.excute(OpenKeywordHandler.java:85)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.access$0(OpenKeywordHandler.java:70)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler$1.handleEvent(OpenKeywordHandler.java:59)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$$Lambda$117/1722351469.run(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4735)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at com.kms.katalon.composer.explorer.parts.ExplorerPart$11.doubleClick(ExplorerPart.java:878)
+	at org.eclipse.jface.viewers.StructuredViewer$1.run(StructuredViewer.java:782)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil$$Lambda$14/1973995123.run(Unknown Source)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireDoubleClick(StructuredViewer.java:779)
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:47:43.442
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] keyword.groovy [in <default> [in Keywords [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.chrome.ChromeDriver
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords#2
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  class keyword
+    java.lang.Object Login(String, String)
+    java.lang.Object refreshBrowser()
+    java.lang.Object clickElement(TestObject)
+    List<WebElement> getHtmlTableRows(TestObject, String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3181)
+	at java.util.ArrayList.grow(ArrayList.java:265)
+	at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:239)
+	at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:231)
+	at java.util.ArrayList.addAll(ArrayList.java:583)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.addTestObjectDropListener(OpenKeywordHandler.java:134)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.formatEditor(OpenKeywordHandler.java:115)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.excute(OpenKeywordHandler.java:85)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.access$0(OpenKeywordHandler.java:70)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler$1.handleEvent(OpenKeywordHandler.java:59)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$$Lambda$117/1722351469.run(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4735)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at com.kms.katalon.composer.explorer.parts.ExplorerPart$11.doubleClick(ExplorerPart.java:878)
+	at org.eclipse.jface.viewers.StructuredViewer$1.run(StructuredViewer.java:782)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil$$Lambda$14/1973995123.run(Unknown Source)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireDoubleClick(StructuredViewer.java:779)
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:54:17.090
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] Login.groovy [in <default> [in Include/scripts/groovy [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  import cucumber.api.java.en.And
+  import cucumber.api.java.en.Given
+  import cucumber.api.java.en.Then
+  import cucumber.api.java.en.When
+  class Login
+    java.lang.Object on_Login_site()
+    java.lang.Object input_Email(String)
+    java.lang.Object input_Pass(String)
+    java.lang.Object clickLogin()
+    java.lang.Object I_verify_the_status_in_step(String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3181)
+	at java.util.ArrayList.grow(ArrayList.java:265)
+	at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:239)
+	at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:231)
+	at java.util.ArrayList.addAll(ArrayList.java:583)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.addTestObjectDropListener(OpenKeywordHandler.java:134)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.formatEditor(OpenKeywordHandler.java:115)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.excute(OpenKeywordHandler.java:85)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler.access$0(OpenKeywordHandler.java:70)
+	at com.kms.katalon.composer.keyword.handlers.OpenKeywordHandler$1.handleEvent(OpenKeywordHandler.java:59)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$$Lambda$117/1722351469.run(Unknown Source)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4735)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at com.kms.katalon.composer.explorer.parts.ExplorerPart$11.doubleClick(ExplorerPart.java:878)
+	at org.eclipse.jface.viewers.StructuredViewer$1.run(StructuredViewer.java:782)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil$$Lambda$14/1973995123.run(Unknown Source)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireDoubleClick(StructuredViewer.java:779)
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:54:24.607
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] Login.groovy [in <default> [in Include/scripts/groovy [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  import cucumber.api.java.en.And
+  import cucumber.api.java.en.Given
+  import cucumber.api.java.en.Then
+  import cucumber.api.java.en.When
+  class Login
+    java.lang.Object on_Login_site()
+    java.lang.Object input_Email(String)
+    java.lang.Object input_Pass(String)
+    java.lang.Object clickLogin()
+    java.lang.Object I_verify_the_status_in_step(String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:54:53.556
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] Login.groovy [in <default> [in Include/scripts/groovy [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  import cucumber.api.java.en.And
+  import cucumber.api.java.en.Given
+  import cucumber.api.java.en.Then
+  import cucumber.api.java.en.When
+  class Login
+    java.lang.Object on_Login_site()
+    java.lang.Object input_Email(String)
+    java.lang.Object input_Pass(String)
+    java.lang.Object clickLogin()
+    java.lang.Object I_verify_the_status_in_step(String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:54:56.745
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=Login.feature} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@d0ec459
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:56:17.313
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=[Working copy] Login.groovy [in <default> [in Include/scripts/groovy [in F%%Katalon_Studio_Windows_64-7.9.1%My First Web UI Project%My First Web UI Project.prj]]]
+  import com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+  import com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+  import com.kms.katalon.core.testdata.TestDataFactory.findTestData
+  import com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+  import com.kms.katalon.core.annotation.Keyword
+  import com.kms.katalon.core.checkpoint.Checkpoint
+  import com.kms.katalon.core.checkpoint.CheckpointFactory
+  import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+  import com.kms.katalon.core.model.FailureHandling
+  import com.kms.katalon.core.testcase.TestCase
+  import com.kms.katalon.core.testcase.TestCaseFactory
+  import com.kms.katalon.core.testdata.TestData
+  import com.kms.katalon.core.testdata.TestDataFactory
+  import com.kms.katalon.core.testobject.ObjectRepository
+  import com.kms.katalon.core.testobject.TestObject
+  import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords
+  import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
+  import internal.GlobalVariable
+  import org.openqa.selenium.WebElement
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.By
+  import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+  import com.kms.katalon.core.webui.driver.DriverFactory
+  import com.kms.katalon.core.testobject.RequestObject
+  import com.kms.katalon.core.testobject.ResponseObject
+  import com.kms.katalon.core.testobject.ConditionType
+  import com.kms.katalon.core.testobject.TestObjectProperty
+  import com.kms.katalon.core.mobile.helper.MobileElementCommonHelper
+  import com.kms.katalon.core.util.KeywordUtil
+  import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+  import cucumber.api.java.en.And
+  import cucumber.api.java.en.Given
+  import cucumber.api.java.en.Then
+  import cucumber.api.java.en.When
+  class Login
+    java.lang.Object on_Login_site()
+    java.lang.Object input_Email(String)
+    java.lang.Object input_Pass(String)
+    java.lang.Object clickLogin()
+    java.lang.Object I_verify_the_status_in_step(String)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@c1f2415
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
+
+!ENTRY org.eclipse.equinox.event 4 0 2021-05-31 20:56:37.482
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=EXPLORER/OPEN_SELECTED_ITEM] {org.eclipse.e4.data=Login.feature} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@d0ec459
+!STACK 0
+java.lang.OutOfMemoryError: Java heap space
