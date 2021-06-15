@@ -35784,3 +35784,23 @@ CodeSelectRequestor: Could not proceed due to null declaring type for org.codeha
 CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2456d301[I am on 'Login' site]
 CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@45822f9[I input pass '(.*)']
 CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@6980626a[I click 'Login']
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+thg 6 01, 2021 9:39:15 CH org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+thg 6 01, 2021 9:39:16 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+thg 6 01, 2021 9:43:45 CH org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+thg 6 01, 2021 9:43:46 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+thg 6 01, 2021 10:08:54 CH org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+thg 6 01, 2021 10:08:55 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
