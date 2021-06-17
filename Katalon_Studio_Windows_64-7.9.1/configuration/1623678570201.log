@@ -115,3 +115,11 @@ java.lang.NullPointerException
 	at java.lang.Thread.run(Thread.java:748)
 
 
+All launchers terminated
+WebView Server has been started on port 61003
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

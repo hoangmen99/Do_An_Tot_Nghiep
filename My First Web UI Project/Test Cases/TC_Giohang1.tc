@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Giohang1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>537060a7-ca68-4f50-ac23-c6663dfdbf15</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dcbab4be-8c31-4c6f-b19e-10f234ac9b14</id>
+      <masked>false</masked>
+      <name>Loai</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17428cac-5b34-4424-a243-3a81da81d0ba</id>
+      <masked>false</masked>
+      <name>TenSP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b46ad67b-5ebf-454f-a25b-48ed2804686d</id>
+      <masked>false</masked>
+      <name>MaSP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a961a91c-67af-4d25-b6c1-22ac28837f2b</id>
+      <masked>false</masked>
+      <name>SoLuong</name>
+   </variable>
+</TestCaseEntity>

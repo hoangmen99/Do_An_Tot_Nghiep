@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite_Giohang2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9a44bcc4-ac8a-4445-81ad-821fd1761f4f</testSuiteGuid>
+   <testCaseLink>
+      <guid>b3367d01-b7dc-4f1e-9484-42bfaed9367d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Giohang2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>94176433-af66-4dd4-afe0-c9f67b9eec98</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Giohang2</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Loai1</value>
+         <variableId>2e45b8bf-3290-439e-bc0d-14aff3672073</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TenSP1</value>
+         <variableId>f066cd84-130a-4866-ac8b-d86fa9805b94</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MaSP1</value>
+         <variableId>cb3e9d84-ef1d-4f2b-8ce1-2a1e24b073b9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoLuong1</value>
+         <variableId>9f6faee5-5679-4320-aecd-1a29268e87ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Loai2</value>
+         <variableId>5baee771-3199-482f-aaab-ec1673c13e51</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TenSP2</value>
+         <variableId>0741f104-3df6-40b4-acfd-9795b16f9947</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MaSP2</value>
+         <variableId>680e36e7-e5d1-4467-bbdd-3ec1918cf53f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>94176433-af66-4dd4-afe0-c9f67b9eec98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoLuong2</value>
+         <variableId>283d5258-8ba9-4330-b7aa-e2e3968d3ab4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

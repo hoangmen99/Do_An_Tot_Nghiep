@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_TimKiem</name>
+   <tag></tag>
+   <elementGuidId>a59f5f7a-f463-45ee-a917-f8765648ce2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ico.ico-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vng_header']/div/div/ul/li/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico ico-search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vng_header&quot;)/div[@class=&quot;container-full&quot;]/div[@class=&quot;header-right&quot;]/ul[@class=&quot;header-info&quot;]/li[@class=&quot;li-search li-search-f&quot;]/div[@class=&quot;tool-search&quot;]/div[@class=&quot;toggle&quot;]/i[@class=&quot;ico ico-search&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vng_header']/div/div/ul/li/div/div/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>

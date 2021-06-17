@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite_GioHang1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>af339dce-3278-443d-8521-b230ce76e53c</testSuiteGuid>
+   <testCaseLink>
+      <guid>cf5e9a35-0dff-4b5a-8b0b-920dbbc39c11</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Giohang1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5d39992b-128f-44ad-9da8-29d92de6b5ad</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_GioHang1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5d39992b-128f-44ad-9da8-29d92de6b5ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Loai</value>
+         <variableId>dcbab4be-8c31-4c6f-b19e-10f234ac9b14</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d39992b-128f-44ad-9da8-29d92de6b5ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TenSP</value>
+         <variableId>17428cac-5b34-4424-a243-3a81da81d0ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d39992b-128f-44ad-9da8-29d92de6b5ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MaSP</value>
+         <variableId>b46ad67b-5ebf-454f-a25b-48ed2804686d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5d39992b-128f-44ad-9da8-29d92de6b5ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoLuong</value>
+         <variableId>a961a91c-67af-4d25-b6c1-22ac28837f2b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
